@@ -9,7 +9,7 @@
 - 👀 I’m interested in internships
 - 🌱 I’m currently learning Python
 - 🔭 I’m currently working in Python to make face detecting software
-- 📫 Reach me at aryannnv@gmail.com
+- 📫 Reach me at aryanadiverma@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
