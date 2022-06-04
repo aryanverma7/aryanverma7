@@ -3,7 +3,7 @@
 👀 I’m interested in internships
 🌱 I’m currently learning Python
 📫 Reach me at  -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" margin-bottom="-20px"></img> </h1>
+<h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Aryan Verma</h1>
 <h3 align="center">Engineering Undergraduate<br /><br /></h3>
 
