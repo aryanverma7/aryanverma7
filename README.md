@@ -8,8 +8,8 @@
 <h3 align="center">Engineering Undergraduate<br /><br /></h3>
 
 - 👀 I’m interested in internships
-- 🌱 I’m currently learning Web Development
-- 🔭 I’m currently working in Python to make face detecting software
+- 🌱 I’m currently learning Full Stack Development
+- 🔭 I’m currently working in Python to make Computer Visionary software
 - 📫 Reach me at aryanadiverma@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
