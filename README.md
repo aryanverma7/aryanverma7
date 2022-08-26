@@ -1,15 +1,15 @@
 <!-- # AryanVerma
 👋 Hi, I’m @Aryan_Verma
 👀 I’m interested in internships
-🌱 I’m currently learning Python
+🌱 I’m currently learning DSA
 📫 Reach me at  -->
 <h1 align="center">Hi 👋</h1>
 <h1 align="center">I'm Aryan Verma</h1>
 <h3 align="center">Engineering Undergraduate<br /><br /></h3>
 
 - 👀 I’m interested in internships
-- 🌱 I’m currently learning Full Stack Development
-- 🔭 I’m currently working in Python to make Computer Visionary software
+- 🌱 I’m a Full Stack Developer
+- 🔭 I’m currently Learning Computer Visionary
 - 📫 Reach me at aryanadiverma@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,6 +23,11 @@
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" alt="jQuery" width="40" height="40"/> </a>
 </p>
 
 ![Aryan Verma's github stats](https://github-readme-stats.vercel.app/api?username=aryanverma7&show_icons=true&hide_border=true&theme=github_dark)
