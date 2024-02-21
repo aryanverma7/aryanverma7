@@ -7,9 +7,8 @@
 <h1 align="center">I'm Aryan Verma</h1>
 <h3 align="center">Engineering Undergraduate<br /><br /></h3>
 
-- 👀 I’m interested in internships
 - 🌱 I’m a Full Stack Developer
-- 🔭 I’m currently Learning Computer Visionary
+- 🔭 I’m currently DevOps
 - 📫 Reach me at aryanadiverma@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
